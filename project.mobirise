@@ -50,7 +50,7 @@
     "gdpr": false,
     "screenshot": "screenshot.png",
     "modified": "2020-07-23T14:14:30.235Z",
-    "publishChangesOnly": true
+    "publishChangesOnly": false
   },
   "pages": {
     "page1.html": {
